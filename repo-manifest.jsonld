@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sloria/konch/commit/a01ce970b763baa94bfef5e3bf078a9a1f196670",
       "git:hexsha": "a01ce970b763baa94bfef5e3bf078a9a1f196670",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T08:53:12.117807+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sloria/konch/commit/4a93bf08eea7188fb1a019aba2699a462685f5ea",
